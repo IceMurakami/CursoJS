@@ -1,0 +1,11 @@
+função anonima
+const raiz = function(n){
+    return n ** 0.5
+}
+
+**mesma coisa só muda o jeito de criar a função
+array function 
+const subtracao = (a,b) => {
+    return a - b
+}
+*****quando só tiver um parametro não precisa de paranteses.

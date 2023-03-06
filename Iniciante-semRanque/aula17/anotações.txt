@@ -1,0 +1,27 @@
+Funções para utilizar no array
+
+push para adicionar no final do array:
+array.push('Parametro inserido')
+
+Unshift para adicionar no final do array:
+array.unshift('Parametro inserido')
+
+pop para REMOVER final do array
+array.pop()
+
+posso REMOVER  o valor que sera REMOVIDO do array
+'Const removido = array.pop()'
+
+pop para REMOVER do INICIO do array. 
+Esse altera todos os indices do array porque remove do inicio.
+array.shift()
+
+REMOVER INDICE sem alterar indice.
+Delete array['Numero do indice']
+
+PARA FATIA O ARRAY
+ARRAY.SLICE('NUMERO DE INDICES FATIADOS')
+COM NUMERO NEGATIVO('Pega o tamanho do array e faz menos o valor declarado')
+
+
+Para verificar se é um array 'INSTANCEOF Array"
